@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="page">
+  <image class="img" src="{{imgSrc}}" mode="widthFix"> </image>
+  <view bindtap='freeTell'  class="btn">立即预约</view> 
+</view>

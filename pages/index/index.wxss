@@ -1,0 +1,31 @@
+.page {
+  min-height: 100%;
+  flex: 1;
+ 
+  font-size: 16px;
+  font-family: -apple-system-font, Helvetica Neue, Helvetica, sans-serif;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  width: 100%;
+}
+
+.btn{
+  width: 750rpx;
+  height: 120rpx;
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color:blueviolet;
+  font-weight: 600;
+  font-size: 40rpx;
+  color: #FBF9FE;
+}
